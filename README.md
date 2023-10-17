@@ -8,7 +8,7 @@ Você pode ver a landing page em ação [aqui](https://estudo-landing-page.netli
 
 ## Planilha de Dados
 
-Integramos uma planilha de dados neste projeto usando o Sheet Monkey e Google Sheets. Você pode acessá-la [aqui](https://docs.google.com/spreadsheets/d/1dSJGHZCZhugucNSyGBVvpGjIlDV2CNHOw66knM3Newo/edit#gid=0).
+Integramos uma planilha de dados neste projeto usando o Sheet Monkey e Google Sheets. Você pode acessá-la [aqui](https://docs.google.com/spreadsheets/d/1dSJGHZCZhugucNSyGBVvpGjIlDV2CNHOw66knM3Newo/edit?usp=sharing).
 
 ## Recursos
 
